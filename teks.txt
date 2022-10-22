@@ -4,5 +4,3 @@ git diff
 
 
 dadada
-
-INI PERUBAHAN DI BRANC MASTER
