@@ -1,3 +1,6 @@
 tes menambah file git
 melihat perubahan isi file
 git diff
+
+
+dadada
